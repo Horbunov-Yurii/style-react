@@ -1,0 +1,15 @@
+.desk{
+    font-size: 100px;
+    color: red;
+    font-style: italic;
+    font-weight: 900;
+    width: 1000px;
+    padding: 10px;
+    outline: 5px solid blue;
+}
+
+
+.btn{
+    background-color: red;
+    font-size: 30px;
+}
